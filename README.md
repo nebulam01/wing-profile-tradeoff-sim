@@ -28,4 +28,4 @@ An interactive simulation and visual reporting tool I built in Google Colab usin
 
 ## 📌 Scope & Assumptions
 - Designed for **preliminary aerodynamic trade-off exploration and educational/engineering comparison**, not detailed CFD or flight certification.
-- Uses analytical 4-digit NACA geometry, finite-wing induced drag ($C_{Di} = C_L^2 / (\pi \cdot AR \cdot e)$), smooth post-stall modeling, and sea-level standard air density ($\rho = 1.225\text{ kg/m}^3$) for cruise/glide estimates.
+- Uses analytical 4-digit NACA geometry, finite-wing induced drag (C_Di = C_L² / (π × AR × e)), smooth post-stall modeling, and sea-level standard air density (ρ = 1.225 kg/m³) for cruise/glide estimates.
